@@ -284,6 +284,10 @@ p.description {
 }
 
 /*------ Price -----*/
+.no-display {
+    display: none;
+}
+
 .price {
   right: 0;
 }
